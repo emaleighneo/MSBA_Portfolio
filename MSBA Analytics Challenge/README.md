@@ -1,5 +1,6 @@
 # Sentiment Analysis on Theme Park Reviews
 
+The competition involved analyzing unstructured text. Performed sentiment analysis on 30,000+ customer reviews of Wisneyland Hong Kong to identify complaints and suggest improvements.
 This project applies sentiment analysis techniques to a theme park reviews to derive insights into customer experiences. 
 The analysis utilizes tools like Vader Sentiment Analyzer and generates visualizations to highlight trends in review sentiments.
 This was for a school competition. 
