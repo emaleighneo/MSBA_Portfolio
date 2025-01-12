@@ -70,7 +70,7 @@ This project was guided by the following objectives:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DATA_VIS_Final_Project.git
+   git clone https://github.com/yourusername/Covid-19_Tableau_storyline.twbx.git
    ```
 2. Open the Tableau workbook (`.twbx`) in Tableau Desktop to explore the dashboards and storyline.
 
@@ -78,7 +78,7 @@ This project was guided by the following objectives:
 
 ## Team Members
 
-- **[Emaleigh Neo,** Marcela Salazar]  Focus: **Inflation Analysis** and Economic Trends
+- **[Emaleigh Neo**, Marcela Salazar]  Focus: **Inflation Analysis** and Economic Trends
 - [Mackenzie Haas]  Focus: Global Trends
 - [Ann Huttenhower]  Focus: California Analysis
 - [Eline van Ophem, Cassandra Maracola]  Focus: Vaccine Stocks
