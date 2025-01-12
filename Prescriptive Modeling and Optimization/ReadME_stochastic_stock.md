@@ -119,7 +119,7 @@ The model generates:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Update_Final_Project_Code.git
+   git clone https://github.com/yourusername/Stochastic_stock_code.git
    ```
 
 2. Install dependencies:
