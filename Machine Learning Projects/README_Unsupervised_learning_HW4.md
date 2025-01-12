@@ -37,16 +37,16 @@ The campaign involved contacting customers via phone 6 times with the goal of se
 
 ```plaintext
 ├── data/
-│   └── campaign_data.csv         # Raw data for the marketing campaign
+│   └── HW4_data.csv         # Raw data for the marketing campaign
 ├── notebooks/
-│   └── campaign_analysis.ipynb   # Jupyter notebook with detailed analysis and code
+│   └── GB_656_Assignment_4_Unsupervised_Learning.ipynb   # Jupyter notebook with detailed analysis and code
 ├── src/
 │   └── preprocess.py             # Preprocessing functions
 │   └── pca.py                    # PCA and dimensionality reduction functions
 │   └── clustering.py             # Clustering functions (KMeans)
 │   └── predictive_model.py       # Predictive model for total purchases
 ├── requirements.txt              # Python dependencies
-└── README.md                     # This file
+└── README_Unsupervised_learning_HW4.md                     # This file
 ```
 
 ## Setup and Installation
@@ -95,14 +95,9 @@ This project uses the following libraries:
 - `sklearn` for machine learning algorithms (PCA, K-Means, regression models)
 - `scipy` for statistical analysis
 
-## Contributing
+  ## Team Members
 
-Feel free to fork the repository, submit issues, or create pull requests if you'd like to contribute. 
+  - Emaleigh Neo: Code, editting of report
+  - Connor Qiao, Jenny Chiu: Report
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-This project was inspired by marketing data analysis challenges in retail industries. Special thanks to the authors of the libraries and tools used in the analysis.
